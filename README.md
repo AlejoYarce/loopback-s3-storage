@@ -1,7 +1,7 @@
 # Loopback API using Amazon S3 storage
 
 # Amazon Keys
-* Put your Amazon Credentials in the datasourse.json file
+* Put your Amazon Credentials in the **datasourse.json** file
 
 # Run the Project
 1. git clone https://github.com/AlejoYarce/loopback-s3-storage.git
