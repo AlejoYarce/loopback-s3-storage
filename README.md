@@ -1,6 +1,4 @@
-# loopback-s3-storage
-
-Loopback API using Amazon S3 storage
+# Loopback API using Amazon S3 storage
 
 # Amazon Keys
 * Put your Amazon Credentials in the datasourse.json file
