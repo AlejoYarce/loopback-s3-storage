@@ -1,0 +1,13 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "amazon": {
+    "name": "amazon",
+    "connector": "loopback-component-storage",
+    "provider": "amazon",
+    "key": "your_amazon_secret_key",
+    "keyId": "your_amazon_key_id"
+  }
+}
